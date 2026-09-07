@@ -1,0 +1,15 @@
+ai-certified-payroll-and-prevailing-wage-control
+ai-construction-change-order-revenue-recovery
+ai-construction-retainage-lien-release-recovery
+ai-construction-subcontractor-backcharge-recovery
+ai-data-center-construction-coordinator
+AIArchitecturalDesignGenerator
+AIConstructionBidAnalyzer
+AIConstructionManager
+AIConstructionSafetyHub
+AIConstructionWearableSafetyMonitor
+AIFloorPlanAnalyzer
+AIHomeRenovationProjectManager
+AILandscapingDesignEstimator
+alliance_hakedis
+cabinet-shop

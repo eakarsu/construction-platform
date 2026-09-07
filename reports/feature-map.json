@@ -1,0 +1,4107 @@
+{
+  "mapped": [
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "PayrollProject",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "payroll-project",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "Worker",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "worker",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "WageDetermination",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "wage-determination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "Timecard",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "timecard",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "PayrollLine",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "payroll-line",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "FringeContribution",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "fringe-contribution",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "ClassificationException",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "classification-exception",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "WeeklyPayroll",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "weekly-payroll",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "Restitution",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "restitution",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "classification-evidence-mapping",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "classification-evidence-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "fringe-discrepancy-explanation",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "fringe-discrepancy-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "timecard-reconciliation-brief",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "timecard-reconciliation-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "payroll-packet-draft",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "payroll-packet-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "restitution-follow-up-draft",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "restitution-follow-up-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "contractor-correction-request",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "contractor-correction-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-change-order-revenue-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-construction-change-order-revenue-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-change-order-revenue-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-construction-change-order-revenue-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "contract-and-subcontract-library",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "contract-and-subcontract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "schedule-of-values-ingestion",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "schedule-of-values-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "pay-application-reconciliation",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "pay-application-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "retainage-calculation",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "retainage-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "substantial-completion-tracking",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "substantial-completion-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "punch-list-evidence",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "punch-list-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "change-order-linkage",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "change-order-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "conditional-waiver-management",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "conditional-waiver-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "unconditional-waiver-management",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "unconditional-waiver-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "preliminary-notice-deadlines",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "preliminary-notice-deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "lien-deadline-control",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "lien-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "surety-bond-support",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "surety-bond-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "retainage-demand-package",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "retainage-demand-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "collection-workflow",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "collection-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "project-cash-forecasting",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/app.config.mjs",
+      "canonical": "project-cash-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "subcontract-scope-library",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "subcontract-scope-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "daily-log-ingestion",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "daily-log-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "issue-notice-tracking",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "issue-notice-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "responsible-party-analysis",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "responsible-party-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "labor-cost-reconstruction",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "labor-cost-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "equipment-cost-reconstruction",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "equipment-cost-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "material-cost-reconstruction",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "material-cost-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "rework-quantity-validation",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "rework-quantity-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "cleanup-allocation",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "cleanup-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "schedule-impact-calculation",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "schedule-impact-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "contract-notice-compliance",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "contract-notice-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "backcharge-package-generation",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "backcharge-package-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "subcontractor-response-workflow",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "subcontractor-response-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "deduction-reconciliation",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "deduction-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "project-trade-analytics",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/app.config.mjs",
+      "canonical": "project-trade-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-construction-coordinator",
+      "sourceKey": "ai-data-center-construction-coordinator",
+      "source": "/Volumes/external/projects/ai-data-center-construction-coordinator",
+      "canonical": "data-center-construction-coordinator",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Building Design Generator",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "building-design-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Code Compliance Checker",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "code-compliance-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Energy Modeling",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "energy-modeling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Material Estimation",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "material-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Floor Plan Generator",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "floor-plan-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Structural Analysis",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "structural-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Cost Estimation",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "cost-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Site Analysis",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "site-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Sustainability Assessment",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "sustainability-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Lighting Design",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "lighting-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "HVAC Design",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "hvac-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Interior Design",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "interior-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Landscape Design",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "landscape-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Construction Timeline",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "construction-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Parking Design",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "parking-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Acoustic Analysis",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "acoustic-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "Fire Safety Analysis",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/backend/src/config/features.js",
+      "canonical": "fire-safety-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "precedent-search",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "precedent-search",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "design-to-bim",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "design-to-bim",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "render-spec",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "render-spec",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "structural-advisor",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "structural-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "energy-model",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "energy-model",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "plugin-export",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "plugin-export",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "cad-conversion",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "cad-conversion",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "versions",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "versions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "comments",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "comments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "material-library",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator/frontend/src/pages/AIBacklog.jsx",
+      "canonical": "material-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "export/csv",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "export-csv",
+      "kind": "route"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "ai-extras",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "extras",
+      "kind": "route"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "compare",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "compare",
+      "kind": "route"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "ai-backlog",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "backlog",
+      "kind": "route"
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "sourceKey": "permit-set-readiness",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "canonical": "permit-set-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/bids",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "bids",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/contractors",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "contractors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/labor",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "labor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/subcontractors",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "subcontractors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/change-orders",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "change-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/risk-assessments",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "risk-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/cost-estimates",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "cost-estimates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/bid-comparisons",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "bid-comparisons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/timelines",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "timelines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/approvals",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/audit-trail",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/plan-spec-upload",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "plan-spec-upload",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/bid-risk-analysis",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "bid-risk-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/cost-estimate-review",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "cost-estimate-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/permit-checklists",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "permit-checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/safety-plans",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "safety-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/subcontractor-scoring",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "subcontractor-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/change-order-impacts",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "change-order-impacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/project-risk-dashboard",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "project-risk-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/bid-bond-readiness",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "bid-bond-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/ai-workbench",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "canonical": "workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/analyze-bid",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-analyze-bid",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/estimate-cost",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "cost-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/assess-risk",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "risk-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/check-compliance",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-check-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/analyze-scope",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-analyze-scope",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/estimate-timeline",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-estimate-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/compare-bids",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-compare-bids",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/optimize-materials",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIAnalysisPage.js",
+      "canonical": "api-ai-optimize-materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/subcontractor-analysis",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-subcontractor-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/value-engineering",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-value-engineering",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/cash-flow-projection",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-cash-flow-projection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/dispute-analyzer",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-dispute-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/compare-bids",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-compare-bids",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/estimate-cost",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-estimate-cost",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/analyze-bid",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-analyze-bid",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/optimize-materials",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-optimize-materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/assess-risk",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-assess-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/analyze-scope",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-analyze-scope",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/assess-risk",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-assess-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/estimate-cost",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AILabPage.js",
+      "canonical": "api-ai-estimate-cost",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/supplier-intel",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-supplier-intel",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/site-vision",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-site-vision",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/agentic-negotiation",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-agentic-negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/variance-alerts",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-variance-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/insurance-recommend",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-insurance-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/ai/sub-performance",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-ai-sub-performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-photo-site-vision-ai-for-progress-or-safety-inspection",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-photo-site-vision-ai-for-progress-or-safety-inspection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-contractors-subcontractors-lack-ai-scoring-or-performance-pr",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-contractors-subcontractors-lack-ai-scoring-or-performance-pr",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-agentic-bid-negotiation-flow",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-agentic-bid-negotiation-flow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-supplier-directory-vendor-management-portal",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-supplier-directory-vendor-management-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-rfq-automation-or-vendor-outreach-workflow",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-rfq-automation-or-vendor-outreach-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-equipment-rental-marketplace-or-availability-tracker",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-equipment-rental-marketplace-or-availability-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-no-calendar-integration",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-no-calendar-integration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "/api/gap-limited-mobile-field-app-surfaces",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/pages/AIWorkbenchPage.js",
+      "canonical": "api-gap-limited-mobile-field-app-surfaces",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "ai-lab",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "lab",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/vision-based-site-inspection",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "api-ai-site-vision",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/supplier-intelligence",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "api-ai-supplier-intel",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/agentic-contract-negotiation",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "api-ai-agentic-negotiation",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/real-time-cost-tracking-with-variance-alerts",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "real-time-cost-tracking-with-variance-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/liability-insurance-recommendation-engine",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "liability-insurance-recommendation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "sourceKey": "cf/subcontractor-performance-scoring",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "canonical": "api-ai-sub-performance",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/cost-estimations/ai-estimate",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "cost-estimations-ai-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/schedules/ai-optimize",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "schedules-ai-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/safety/ai-analyze",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "safety-ai-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/change-orders/ai-analyze",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "change-orders-ai-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/risk-assessments/ai-assess",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "risk-assessments-ai-assess",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/weather/ai-analyze",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "weather-ai-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/environmental/ai-analyze",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "environmental-ai-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "/bim/ai-analyze",
+      "source": "/Volumes/external/projects/AIConstructionManager/frontend/src/App.js",
+      "canonical": "bim-ai-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "projects-full",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "projects-full",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "change-orders-full",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "change-orders-full",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "daily-reports-full",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "daily-reports-full",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/multi-modal-progress-tracking",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "multi-modal-progress-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/predictive-project-completion",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "predictive-project-completion",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/autonomous-site-monitoring",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "autonomous-site-monitoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/supply-chain-optimization",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "supply-chain-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/worker-wellness-fatigue-monitoring",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "worker-wellness-fatigue-monitoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionManager",
+      "sourceKey": "cf/permitting-regulatory-prediction",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "canonical": "permitting-regulatory-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "sites",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "workers",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "workers",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "equipment",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "incidents",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "inspections",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "inspections",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "permits",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "permits",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "trainings",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "trainings",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "hazards",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "hazards",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "jha",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "jha",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "near_misses",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "near-misses",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "safety_meetings",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "safety-meetings",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ppe_inventory",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "ppe-inventory",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "contractors",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "contractors",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "subcontractors",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "subcontractors",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "drug_tests",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "drug-tests",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "dot_records",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "dot-records",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "claims",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "vendors",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "vendors",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/predict-hazards",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "predict-hazards",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/toolbox-talk",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "toolbox-talk",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/synthesize-inspection",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "synthesize-inspection",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/analyze-incident",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "analyze-incident",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/verify-permit",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "verify-permit",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/recommend-training",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "recommend-training",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/ppe-detector",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "ppe-detector",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/fatigue-predictor",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "fatigue-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/weather-stop-work",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "weather-stop-work",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/jha-generator",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "jha-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/near-miss-cluster",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "near-miss-cluster",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/contractor-score",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "contractor-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/claim-fraud",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "claim-fraud",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/training-gap",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "training-gap",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/lift-plan",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "lift-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/scaffold-inspector",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "scaffold-inspector",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/rca-analyzer",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "rca-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/near-miss-similarity",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "near-miss-similarity",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/osha-narrative",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "osha-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/hazard-image-classifier",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "hazard-image-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "ai/leading-indicator-predictor",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "leading-indicator-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "osha-reports",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "osha-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "certifications",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "certifications",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "subcontractor-onboarding",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "subcontractor-onboarding",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "lone-worker",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "lone-worker",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "wearables",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "wearables",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "drones",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "drones",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "scaffold-tag-compliance",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "scaffold-tag-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "attachments",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "attachments",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "sourceKey": "bulk-import",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "canonical": "bulk-import",
+      "kind": "route"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "workers",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "hazards",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "hazards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "environmental",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "environmental",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "fatigue",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "fatigue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "ppe",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "ppe",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "falls",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "falls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "heatstress",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "heatstress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "noise",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "noise",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "airquality",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "airquality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "proximity",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "proximity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "training",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "emergency",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "emergency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "evacuation-muster-trace",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "evacuation-muster-trace",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/App.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/workers",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/hazards",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "hazards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/falls",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "falls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/fatigue",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "fatigue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/ppe",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "ppe",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/environmental",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "environmental",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/heatstress",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "heatstress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/noise",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "noise",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/airquality",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "airquality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/proximity",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "proximity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/emergency",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "emergency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/evacuation-muster-trace",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "evacuation-muster-trace",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/advanced",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "advanced",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/multi-modal-fatigue-detection",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "multi-modal-fatigue-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/predictive-injury-prevention",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-injury-prevention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/autonomous-safety-audits",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "autonomous-safety-audits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/behavior-based-safety-bbs-coaching",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "behavior-based-safety-bbs-coaching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/worker-cohort-analysis",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "worker-cohort-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "/cf/insurance-premium-optimization",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "canonical": "insurance-premium-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "safety-analysis",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "safety-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "risk-prediction",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "risk-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "incident-analysis",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "incident-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "equipment-health",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "equipment-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "worker-wellness",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "worker-wellness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "environmental-risk",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "environmental-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "compliance-report",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "compliance-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "emergency-plan",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "emergency-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "training-recommend",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "training-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "predictive-alert",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "predictive-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "incident-prediction",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "incident-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "ppe-compliance-scan",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "ppe-compliance-scan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "evacuation-plan",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "evacuation-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "predict-collision",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "predict-collision",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "predict-fall",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "predict-fall",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "predictive-maintenance-schedule",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/AICenter.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "workers",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "environmental",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "environmental",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "fatigue",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "fatigue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "sourceKey": "heatstress",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/pages/Dashboard.js",
+      "canonical": "heatstress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "space-plan",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "space-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "zoning-compliance",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "zoning-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "renovation-roadmap",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "renovation-roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "insurance-risk-review",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "insurance-risk-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "resale-value-projection",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "resale-value-projection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/room-detector",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "room-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/home-staging",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "home-staging",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/furniture-placer",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "furniture-placer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/maintenance-predictor",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "maintenance-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/energy-auditor",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "energy-auditor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "/home-inspector",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "home-inspector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "floor-plans",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "floor-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "rooms",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "rooms",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "suggestions",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "suggestions",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "materials",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "materials",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "estimates",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "estimates",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "templates",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "contractors",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "contractors",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "full-analysis",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "full-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "dimensions",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "dimensions",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "ai-suggestions",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "suggestions",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "ai-materials",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "materials",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "optimize-layout",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "optimize-layout",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "cost-estimate",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "cost-estimate",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "accessibility-checker",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "accessibility-checker",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "sustainability-analyzer",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "sustainability-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "contractor-bid-comparison",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "contractor-bid-comparison",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "advanced-ai-tools",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "advanced-ai-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "sourceKey": "egress-path-clearance",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "canonical": "egress-path-clearance",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/contractors",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "contractors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/permits",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "permits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/budget",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/change-orders",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "change-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/designs",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "designs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/timeline",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/inspections",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "inspections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/rooms",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "rooms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/punchlist",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "punchlist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/warranties",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "warranties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/daily-log",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "daily-log",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/photos",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "photos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "permit-inspection-readiness",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "permit-inspection-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-agentic-project-coordinator-scheduling-i",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "agentic-project-coordinator-scheduling-i",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-vision-based-construction-progress-track",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "vision-based-construction-progress-track",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-change-order-ai-advisor-estimating-costt",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "change-order-ai-advisor-estimating-costt",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-contractor-performance-scoring-extending",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "contractor-performance-scoring-extending",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-material-supply-chain-optimization-monit",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "material-supply-chain-optimization-monit",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "cf-lien-payment-automation-flagging-payment",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "lien-payment-automation-flagging-payment",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-timeline-predictor-based-on-scope",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "timeline-predictor-based-on-scope",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-budget-optimizer-overspend-flagger",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "budget-optimizer-overspend-flagger",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-contractor-recommendation-engine",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "contractor-recommendation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-material-cost-estimator",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "material-cost-estimator",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-vision-based-inspection-analyzer",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "vision-based-inspection-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-schedule-conflict-detector-across-tra",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "schedule-conflict-detector-across-tra",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-lien-management",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "lien-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-formal-change-order-workflow",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "formal-change-order-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-contractorsupplier-marketplace",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "contractorsupplier-marketplace",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "sourceKey": "gap-no-real-time-homeowner-update-feed",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "canonical": "real-time-homeowner-update-feed",
+      "kind": "route"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/designs",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "designs",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "maintenance-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/irrigation",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "irrigation",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/plants",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "plants",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/costs",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/soil",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "soil",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/crews",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "crews",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/gallery",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "gallery",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/time-tracking",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "time",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/calculator",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/ai/design-feasibility-check",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/AIToolsPage.js",
+      "canonical": "design-feasibility-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/ai/maintenance-cost-projector",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/AIToolsPage.js",
+      "canonical": "maintenance-cost-projector",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/ai/crew-skill-matcher",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/AIToolsPage.js",
+      "canonical": "crew-skill-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/ai/seasonal-demand-forecast",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/AIToolsPage.js",
+      "canonical": "seasonal-demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/ai/material-price-monitor",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/AIToolsPage.js",
+      "canonical": "material-price-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/irrigation",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "irrigation",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "material-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/calculator",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "sourceKey": "plant-survivability-zone-check",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "canonical": "plant-survivability-zone-check",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "split-optimize",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "split-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "approval-bottleneck",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "approval-bottleneck",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "scenario-model",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "scenario-model",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "partner-anomalies",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "partner-anomalies",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "payout-reconcile",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "payout-reconcile",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "erp-revrec",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "erp-revrec",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "governance-routing",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "governance-routing",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "strategic-partner-recommend",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "strategic-partner-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "workflows",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "workflows",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "workflow-config",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "workflow-config",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "workflow-new",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "workflow-new",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "approval-workflows",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "approval-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "contacts",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "organizations",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "organizations",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "leads",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "opportunities",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "opportunities",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "partners",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "partners",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "agreements",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "agreements",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "proposals",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "proposals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "governance",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "governance",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "conflict-queue",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "conflict-queue",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "visibility-approvals",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "visibility-approvals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "risks",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "risks",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "referrals",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "referrals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "status-tracker",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "status-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "payout-summary",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "payout-summary",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "shared-items",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "shared-items",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "compliance-reviews",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "compliance-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "deal-paths",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "deal-paths",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "demo-queue",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "demo-queue",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "integration-map",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "integration-map",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "advisory-requests",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "advisory-requests",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "meeting-notes",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "meeting-notes",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "economics",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "economics",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "split-templates",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "split-templates",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "resource-view",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "resource-view",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "activities",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "activities",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "kpi",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "kpi",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/split-structure-optimization-partner-satisfaction-margin",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-split-structure-optimization-partner-satisfaction-margin",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/approval-workflow-prediction-likely-bottlenecks",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-approval-workflow-prediction-likely-bottlenecks",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/economic-scenario-modeling-what-if-on-deal-terms",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-economic-scenario-modeling-what-if-on-deal-terms",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/partner-performance-dashboards-with-anomaly-alerts",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-partner-performance-dashboards-with-anomaly-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/automated-payout-reconciliation-with-dispute-detection",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-automated-payout-reconciliation-with-dispute-detection",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/erp-integration-for-revenue-recognition",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-erp-integration-for-revenue-recognition",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/governance-exception-management-with-ai-routing",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-governance-exception-management-with-ai-routing",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/cfs/strategic-partner-recommendation-based-on-capability-gaps",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-cfs-strategic-partner-recommendation-based-on-capability-gaps",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-ai/ai-workflow-bottleneck-detection",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-ai-ai-workflow-bottleneck-detection",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-ai/economics-split-optimization-ai",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-ai-economics-split-optimization-ai",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-ai/deal-structure-recommendations",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-ai-deal-structure-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-ai/payout-prediction",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-ai-payout-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-ai/governance-exception-triage",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-ai-governance-exception-triage",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-nonai/multi-level-governance-approvals-board-cfo-sequenced",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-nonai-multi-level-governance-approvals-board-cfo-sequenced",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-nonai/full-e-signature-integration",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-nonai-full-e-signature-integration",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-nonai/mobile-partner-portal-ui",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-nonai-mobile-partner-portal-ui",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-nonai/external-tax-reporting-10991042-generation",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-nonai-external-tax-reporting-10991042-generation",
+      "kind": "route"
+    },
+    {
+      "project": "alliance_hakedis",
+      "sourceKey": "batch09/gap-nonai/sox-grade-sod-controls-reporting",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "canonical": "batch09-gap-nonai-sox-grade-sod-controls-reporting",
+      "kind": "route"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Material",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "material",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Remnant",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "remnant",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "OptimizationJob",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "optimization-job",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Project",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "matters",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Service",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "service",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Testimonial",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "testimonial",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "TeamMember",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "team-member",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Faq",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "faq",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "QuoteRequest",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "quote-request",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Favorite",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "favorite",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Setting",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "setting",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Consultation",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "consultation",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "AiResult",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "result",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "Contact",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "contacts",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "AttributionTouch",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "attribution-touch",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "ConsentRecord",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "consent-record",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "SuppressionEntry",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "suppression-entry",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "OutreachMessage",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "outreach-message",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "IntegrationEndpoint",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "integration-endpoint",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "IntegrationEvent",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "integration-event",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "IntegrationLink",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "integration-link",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "PrivacyRequest",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "privacy-request",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "RateLimitBucket",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "rate-limit-bucket",
+      "kind": "schema"
+    },
+    {
+      "project": "cabinet-shop",
+      "sourceKey": "AuditEvent",
+      "source": "/Volumes/external/projects/cabinet-shop",
+      "canonical": "audit-event",
+      "kind": "schema"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-certified-payroll-and-prevailing-wage-control",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-certified-payroll-and-prevailing-wage-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-construction-change-order-revenue-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-construction-change-order-revenue-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-construction-retainage-lien-release-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-construction-retainage-lien-release-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-construction-subcontractor-backcharge-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-construction-subcontractor-backcharge-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/:id/generate",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/:id/favorite",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/:id/notes",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/features/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "/features/:featureKey/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIArchitecturalDesignGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIArchitecturalDesignGenerator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer/client/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIConstructionBidAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionBidAnalyzer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIConstructionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIConstructionSafetyHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionSafetyHub",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "/ai-center",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIConstructionWearableSafetyMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIConstructionWearableSafetyMonitor",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "/floor-plans/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFloorPlanAnalyzer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFloorPlanAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "/advanced-ai",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHomeRenovationProjectManager",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIHomeRenovationProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/designs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/maintenance/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/irrigation/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/materials/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/proposals/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/plants/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/costs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/projects/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/soil/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/weather/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/equipment/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/crews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/gallery/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/invoices/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/suppliers/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/clients/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/expenses/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "/time-entries/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AILandscapingDesignEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILandscapingDesignEstimator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "login",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "/workflow-detail/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "ai",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/alliance_hakedis",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance_hakedis",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "contract-and-subcontract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "schedule-of-values-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pay-application-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retainage-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "substantial-completion-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "punch-list-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "change-order-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "conditional-waiver-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unconditional-waiver-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "preliminary-notice-deadlines",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lien-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "surety-bond-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retainage-demand-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collection-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "project-cash-forecasting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subcontract-scope-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "daily-log-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "issue-notice-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "responsible-party-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "labor-cost-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "equipment-cost-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-cost-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rework-quantity-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cleanup-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "schedule-impact-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-notice-compliance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "backcharge-package-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subcontractor-response-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deduction-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "project-trade-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "ai-data-center-construction-coordinator",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ai-certified-payroll-and-prevailing-wage-control",
+    "name": "Certified payroll and prevailing wage control",
+    "sourceProject": "ai-certified-payroll-and-prevailing-wage-control",
+    "services": []
+  },
+  {
+    "id": "ai-construction-change-order-revenue-recovery",
+    "name": "Construction change order revenue recovery",
+    "sourceProject": "ai-construction-change-order-revenue-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-construction-retainage-lien-release-recovery",
+    "name": "Construction retainage lien release recovery",
+    "sourceProject": "ai-construction-retainage-lien-release-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-construction-subcontractor-backcharge-recovery",
+    "name": "Construction subcontractor backcharge recovery",
+    "sourceProject": "ai-construction-subcontractor-backcharge-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-data-center-construction-coordinator",
+    "name": "Data center construction coordinator",
+    "sourceProject": "ai-data-center-construction-coordinator",
+    "services": []
+  },
+  {
+    "id": "AIArchitecturalDesignGenerator",
+    "name": "Architectural design generator",
+    "sourceProject": "AIArchitecturalDesignGenerator",
+    "services": []
+  },
+  {
+    "id": "AIConstructionBidAnalyzer",
+    "name": "Construction bid analyzer",
+    "sourceProject": "AIConstructionBidAnalyzer",
+    "services": []
+  },
+  {
+    "id": "AIConstructionManager",
+    "name": "Construction manager",
+    "sourceProject": "AIConstructionManager",
+    "services": []
+  },
+  {
+    "id": "AIConstructionSafetyHub",
+    "name": "Construction safety hub",
+    "sourceProject": "AIConstructionSafetyHub",
+    "services": []
+  },
+  {
+    "id": "AIConstructionWearableSafetyMonitor",
+    "name": "Construction wearable safety monitor",
+    "sourceProject": "AIConstructionWearableSafetyMonitor",
+    "services": []
+  },
+  {
+    "id": "AIFloorPlanAnalyzer",
+    "name": "Floor plan analyzer",
+    "sourceProject": "AIFloorPlanAnalyzer",
+    "services": []
+  },
+  {
+    "id": "AIHomeRenovationProjectManager",
+    "name": "Home renovation project manager",
+    "sourceProject": "AIHomeRenovationProjectManager",
+    "services": []
+  },
+  {
+    "id": "AILandscapingDesignEstimator",
+    "name": "Landscaping design estimator",
+    "sourceProject": "AILandscapingDesignEstimator",
+    "services": []
+  },
+  {
+    "id": "alliance_hakedis",
+    "name": "Alliance hakedis",
+    "sourceProject": "alliance_hakedis",
+    "services": []
+  },
+  {
+    "id": "cabinet-shop",
+    "name": "Cabinet shop",
+    "sourceProject": "cabinet-shop",
+    "services": []
+  }
+]

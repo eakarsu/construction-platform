@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "restitution-follow-up-draft",
+      "operations-handoff-draft"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "restitution-follow-up-draft",
+        "title": "Restitution follow-up draft",
+        "originalPath": "/features/restitution-follow-up-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "classification-evidence-mapping",
+      "evidence-completeness-review",
+      "punch-list-evidence",
+      "lien-deadline-control",
+      "rework-quantity-validation",
+      "contract-notice-compliance",
+      "fire-safety-analysis",
+      "risk-assessments",
+      "bid-risk-analysis",
+      "api-ai-check-compliance",
+      "api-gap-no-photo-site-vision-ai-for-progress-or-safety-inspection",
+      "safety-ai-analyze",
+      "risk-assessments-ai-assess",
+      "environmental-ai-analyze",
+      "permitting-regulatory-prediction",
+      "synthesize-inspection",
+      "claim-fraud",
+      "airquality",
+      "training",
+      "safety-analysis",
+      "risk-prediction",
+      "environmental-risk",
+      "compliance-report",
+      "ppe-compliance-scan",
+      "predict-fall",
+      "zoning-compliance",
+      "insurance-risk-review",
+      "energy-auditor",
+      "vision-based-inspection-analyzer",
+      "compliance-reviews",
+      "batch09-cfs-governance-exception-management-with-ai-routing",
+      "batch09-gap-ai-governance-exception-triage",
+      "batch09-gap-nonai-sox-grade-sod-controls-reporting"
+    ],
+    "ai": true,
+    "representativeId": "classification-evidence-mapping",
+    "description": "One assistant for 33 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "classification-evidence-mapping",
+        "title": "Classification evidence mapping",
+        "originalPath": "/features/classification-evidence-mapping"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "punch-list-evidence",
+        "title": "Punch-list evidence",
+        "originalPath": "/features/punch-list-evidence"
+      },
+      {
+        "id": "lien-deadline-control",
+        "title": "Lien deadline control",
+        "originalPath": "/features/lien-deadline-control"
+      },
+      {
+        "id": "rework-quantity-validation",
+        "title": "Rework quantity validation",
+        "originalPath": "/features/rework-quantity-validation"
+      },
+      {
+        "id": "contract-notice-compliance",
+        "title": "Contract notice compliance",
+        "originalPath": "/features/contract-notice-compliance"
+      },
+      {
+        "id": "fire-safety-analysis",
+        "title": "Fire Safety Analysis",
+        "originalPath": "/features/fire-safety-analysis"
+      },
+      {
+        "id": "risk-assessments",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessments"
+      },
+      {
+        "id": "bid-risk-analysis",
+        "title": "Bids: Risk Review",
+        "originalPath": "/features/bid-risk-analysis"
+      },
+      {
+        "id": "api-ai-check-compliance",
+        "title": "Compliance Check",
+        "originalPath": "/features/api-ai-check-compliance"
+      },
+      {
+        "id": "api-gap-no-photo-site-vision-ai-for-progress-or-safety-inspection",
+        "title": "Site-Vision AI (Progress / Safety)",
+        "originalPath": "/features/api-gap-no-photo-site-vision-ai-for-progress-or-safety-inspection"
+      },
+      {
+        "id": "safety-ai-analyze",
+        "title": "AI Safety Analysis",
+        "originalPath": "/features/safety-ai-analyze"
+      },
+      {
+        "id": "risk-assessments-ai-assess",
+        "title": "AI Risk Assessment",
+        "originalPath": "/features/risk-assessments-ai-assess"
+      },
+      {
+        "id": "environmental-ai-analyze",
+        "title": "AI Environmental Compliance Analysis",
+        "originalPath": "/features/environmental-ai-analyze"
+      },
+      {
+        "id": "permitting-regulatory-prediction",
+        "title": "Permitting regulatory prediction",
+        "originalPath": "/features/permitting-regulatory-prediction"
+      },
+      {
+        "id": "synthesize-inspection",
+        "title": "Synthesize inspection",
+        "originalPath": "/features/synthesize-inspection"
+      },
+      {
+        "id": "claim-fraud",
+        "title": "Claim fraud",
+        "originalPath": "/features/claim-fraud"
+      },
+      {
+        "id": "airquality",
+        "title": "Air Quality",
+        "originalPath": "/features/airquality"
+      },
+      {
+        "id": "training",
+        "title": "Training Compliance",
+        "originalPath": "/features/training"
+      },
+      {
+        "id": "safety-analysis",
+        "title": "Safety Analysis",
+        "originalPath": "/features/safety-analysis"
+      },
+      {
+        "id": "risk-prediction",
+        "title": "Risk Prediction",
+        "originalPath": "/features/risk-prediction"
+      },
+      {
+        "id": "environmental-risk",
+        "title": "Environmental Risk",
+        "originalPath": "/features/environmental-risk"
+      },
+      {
+        "id": "compliance-report",
+        "title": "Compliance Report",
+        "originalPath": "/features/compliance-report"
+      },
+      {
+        "id": "ppe-compliance-scan",
+        "title": "PPE Compliance Scan",
+        "originalPath": "/features/ppe-compliance-scan"
+      },
+      {
+        "id": "predict-fall",
+        "title": "Fall Risk Prediction",
+        "originalPath": "/features/predict-fall"
+      },
+      {
+        "id": "zoning-compliance",
+        "title": "Zoning Compliance (advisory)",
+        "originalPath": "/features/zoning-compliance"
+      },
+      {
+        "id": "insurance-risk-review",
+        "title": "Insurance Risk Review (advisory)",
+        "originalPath": "/features/insurance-risk-review"
+      },
+      {
+        "id": "energy-auditor",
+        "title": "Energy Auditor",
+        "originalPath": "/features/energy-auditor"
+      },
+      {
+        "id": "vision-based-inspection-analyzer",
+        "title": "vision based inspection analyzer",
+        "originalPath": "/features/vision-based-inspection-analyzer"
+      },
+      {
+        "id": "compliance-reviews",
+        "title": "Compliance reviews",
+        "originalPath": "/features/compliance-reviews"
+      },
+      {
+        "id": "batch09-cfs-governance-exception-management-with-ai-routing",
+        "title": "Governance exception management with ai routing",
+        "originalPath": "/features/batch09-cfs-governance-exception-management-with-ai-routing"
+      },
+      {
+        "id": "batch09-gap-ai-governance-exception-triage",
+        "title": "Governance exception triage",
+        "originalPath": "/features/batch09-gap-ai-governance-exception-triage"
+      },
+      {
+        "id": "batch09-gap-nonai-sox-grade-sod-controls-reporting",
+        "title": "Sox grade sod controls reporting",
+        "originalPath": "/features/batch09-gap-nonai-sox-grade-sod-controls-reporting"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "fringe-discrepancy-explanation",
+      "contractor-correction-request",
+      "contract-and-subcontract-library",
+      "retainage-calculation",
+      "substantial-completion-tracking",
+      "change-order-linkage",
+      "conditional-waiver-management",
+      "unconditional-waiver-management",
+      "preliminary-notice-deadlines",
+      "surety-bond-support",
+      "retainage-demand-package",
+      "collection-workflow",
+      "subcontract-scope-library",
+      "daily-log-ingestion",
+      "issue-notice-tracking",
+      "cleanup-allocation",
+      "backcharge-package-generation",
+      "subcontractor-response-workflow",
+      "project-trade-analytics",
+      "data-center-construction-coordinator",
+      "floor-plan-generator",
+      "sustainability-assessment",
+      "precedent-search",
+      "structural-advisor",
+      "energy-model",
+      "plugin-export",
+      "comments",
+      "material-library",
+      "extras",
+      "backlog",
+      "materials",
+      "workbench",
+      "api-ai-estimate-timeline",
+      "api-ai-compare-bids",
+      "api-ai-value-engineering",
+      "api-ai-cash-flow-projection",
+      "lab",
+      "daily-reports-full",
+      "trainings",
+      "claims",
+      "toolbox-talk",
+      "verify-permit",
+      "weather-stop-work",
+      "jha-generator",
+      "near-miss-cluster",
+      "training-gap",
+      "lift-plan",
+      "scaffold-inspector",
+      "near-miss-similarity",
+      "osha-narrative",
+      "equipment-health",
+      "worker-wellness",
+      "emergency-plan",
+      "incident-prediction",
+      "evacuation-plan",
+      "space-plan",
+      "renovation-roadmap",
+      "resale-value-projection",
+      "home-staging",
+      "furniture-placer",
+      "maintenance-predictor",
+      "home-inspector",
+      "suggestions",
+      "advanced-ai-tools",
+      "crew-skill-matcher",
+      "batch09-gap-nonai-multi-level-governance-approvals-board-cfo-sequenced",
+      "batch09-gap-nonai-mobile-partner-portal-ui"
+    ],
+    "ai": true,
+    "representativeId": "fringe-discrepancy-explanation",
+    "description": "One assistant for 67 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "fringe-discrepancy-explanation",
+        "title": "Fringe discrepancy explanation",
+        "originalPath": "/features/fringe-discrepancy-explanation"
+      },
+      {
+        "id": "contractor-correction-request",
+        "title": "Contractor correction request",
+        "originalPath": "/features/contractor-correction-request"
+      },
+      {
+        "id": "contract-and-subcontract-library",
+        "title": "Contract and subcontract library",
+        "originalPath": "/features/contract-and-subcontract-library"
+      },
+      {
+        "id": "retainage-calculation",
+        "title": "Retainage calculation",
+        "originalPath": "/features/retainage-calculation"
+      },
+      {
+        "id": "substantial-completion-tracking",
+        "title": "Substantial completion tracking",
+        "originalPath": "/features/substantial-completion-tracking"
+      },
+      {
+        "id": "change-order-linkage",
+        "title": "Change-order linkage",
+        "originalPath": "/features/change-order-linkage"
+      },
+      {
+        "id": "conditional-waiver-management",
+        "title": "Conditional waiver management",
+        "originalPath": "/features/conditional-waiver-management"
+      },
+      {
+        "id": "unconditional-waiver-management",
+        "title": "Unconditional waiver management",
+        "originalPath": "/features/unconditional-waiver-management"
+      },
+      {
+        "id": "preliminary-notice-deadlines",
+        "title": "Preliminary notice deadlines",
+        "originalPath": "/features/preliminary-notice-deadlines"
+      },
+      {
+        "id": "surety-bond-support",
+        "title": "Surety bond support",
+        "originalPath": "/features/surety-bond-support"
+      },
+      {
+        "id": "retainage-demand-package",
+        "title": "Retainage demand package",
+        "originalPath": "/features/retainage-demand-package"
+      },
+      {
+        "id": "collection-workflow",
+        "title": "Collection workflow",
+        "originalPath": "/features/collection-workflow"
+      },
+      {
+        "id": "subcontract-scope-library",
+        "title": "Subcontract scope library",
+        "originalPath": "/features/subcontract-scope-library"
+      },
+      {
+        "id": "daily-log-ingestion",
+        "title": "Daily log ingestion",
+        "originalPath": "/features/daily-log-ingestion"
+      },
+      {
+        "id": "issue-notice-tracking",
+        "title": "Issue notice tracking",
+        "originalPath": "/features/issue-notice-tracking"
+      },
+      {
+        "id": "cleanup-allocation",
+        "title": "Cleanup allocation",
+        "originalPath": "/features/cleanup-allocation"
+      },
+      {
+        "id": "backcharge-package-generation",
+        "title": "Backcharge package generation",
+        "originalPath": "/features/backcharge-package-generation"
+      },
+      {
+        "id": "subcontractor-response-workflow",
+        "title": "Subcontractor response workflow",
+        "originalPath": "/features/subcontractor-response-workflow"
+      },
+      {
+        "id": "project-trade-analytics",
+        "title": "Project trade analytics",
+        "originalPath": "/features/project-trade-analytics"
+      },
+      {
+        "id": "data-center-construction-coordinator",
+        "title": "Data center construction coordinator work",
+        "originalPath": "/features/data-center-construction-coordinator"
+      },
+      {
+        "id": "floor-plan-generator",
+        "title": "Floor Plan Generator",
+        "originalPath": "/features/floor-plan-generator"
+      },
+      {
+        "id": "sustainability-assessment",
+        "title": "Sustainability Assessment",
+        "originalPath": "/features/sustainability-assessment"
+      },
+      {
+        "id": "precedent-search",
+        "title": "Precedent Search",
+        "originalPath": "/features/precedent-search"
+      },
+      {
+        "id": "structural-advisor",
+        "title": "Structural Advisor",
+        "originalPath": "/features/structural-advisor"
+      },
+      {
+        "id": "energy-model",
+        "title": "Energy Model",
+        "originalPath": "/features/energy-model"
+      },
+      {
+        "id": "plugin-export",
+        "title": "Plugin Export",
+        "originalPath": "/features/plugin-export"
+      },
+      {
+        "id": "comments",
+        "title": "Comments + Lock",
+        "originalPath": "/features/comments"
+      },
+      {
+        "id": "material-library",
+        "title": "Material Library",
+        "originalPath": "/features/material-library"
+      },
+      {
+        "id": "extras",
+        "title": "Extras",
+        "originalPath": "/features/extras"
+      },
+      {
+        "id": "backlog",
+        "title": "Backlog",
+        "originalPath": "/features/backlog"
+      },
+      {
+        "id": "materials",
+        "title": "Materials",
+        "originalPath": "/features/materials"
+      },
+      {
+        "id": "workbench",
+        "title": "AI Workbench",
+        "originalPath": "/features/workbench"
+      },
+      {
+        "id": "api-ai-estimate-timeline",
+        "title": "Timeline Estimation",
+        "originalPath": "/features/api-ai-estimate-timeline"
+      },
+      {
+        "id": "api-ai-compare-bids",
+        "title": "Bid Comparison",
+        "originalPath": "/features/api-ai-compare-bids"
+      },
+      {
+        "id": "api-ai-value-engineering",
+        "title": "Value Engineering",
+        "originalPath": "/features/api-ai-value-engineering"
+      },
+      {
+        "id": "api-ai-cash-flow-projection",
+        "title": "Cash Flow Projection",
+        "originalPath": "/features/api-ai-cash-flow-projection"
+      },
+      {
+        "id": "lab",
+        "title": "Lab",
+        "originalPath": "/features/lab"
+      },
+      {
+        "id": "daily-reports-full",
+        "title": "Daily reports full",
+        "originalPath": "/features/daily-reports-full"
+      },
+      {
+        "id": "trainings",
+        "title": "Trainings",
+        "originalPath": "/features/trainings"
+      },
+      {
+        "id": "claims",
+        "title": "Claims",
+        "originalPath": "/features/claims"
+      },
+      {
+        "id": "toolbox-talk",
+        "title": "Toolbox talk",
+        "originalPath": "/features/toolbox-talk"
+      },
+      {
+        "id": "verify-permit",
+        "title": "Verify permit",
+        "originalPath": "/features/verify-permit"
+      },
+      {
+        "id": "weather-stop-work",
+        "title": "Weather stop work",
+        "originalPath": "/features/weather-stop-work"
+      },
+      {
+        "id": "jha-generator",
+        "title": "Jha generator",
+        "originalPath": "/features/jha-generator"
+      },
+      {
+        "id": "near-miss-cluster",
+        "title": "Near miss cluster",
+        "originalPath": "/features/near-miss-cluster"
+      },
+      {
+        "id": "training-gap",
+        "title": "Training gap",
+        "originalPath": "/features/training-gap"
+      },
+      {
+        "id": "lift-plan",
+        "title": "Lift plan",
+        "originalPath": "/features/lift-plan"
+      },
+      {
+        "id": "scaffold-inspector",
+        "title": "Scaffold inspector",
+        "originalPath": "/features/scaffold-inspector"
+      },
+      {
+        "id": "near-miss-similarity",
+        "title": "Near miss similarity",
+        "originalPath": "/features/near-miss-similarity"
+      },
+      {
+        "id": "osha-narrative",
+        "title": "Osha narrative",
+        "originalPath": "/features/osha-narrative"
+      },
+      {
+        "id": "equipment-health",
+        "title": "Equipment Health",
+        "originalPath": "/features/equipment-health"
+      },
+      {
+        "id": "worker-wellness",
+        "title": "Worker Wellness",
+        "originalPath": "/features/worker-wellness"
+      },
+      {
+        "id": "emergency-plan",
+        "title": "Emergency Plan",
+        "originalPath": "/features/emergency-plan"
+      },
+      {
+        "id": "incident-prediction",
+        "title": "Incident Probability (8h)",
+        "originalPath": "/features/incident-prediction"
+      },
+      {
+        "id": "evacuation-plan",
+        "title": "Dynamic Evacuation Plan",
+        "originalPath": "/features/evacuation-plan"
+      },
+      {
+        "id": "space-plan",
+        "title": "Space Plan",
+        "originalPath": "/features/space-plan"
+      },
+      {
+        "id": "renovation-roadmap",
+        "title": "Renovation Roadmap",
+        "originalPath": "/features/renovation-roadmap"
+      },
+      {
+        "id": "resale-value-projection",
+        "title": "Resale Value Projection (advisory)",
+        "originalPath": "/features/resale-value-projection"
+      },
+      {
+        "id": "home-staging",
+        "title": "Home Staging",
+        "originalPath": "/features/home-staging"
+      },
+      {
+        "id": "furniture-placer",
+        "title": "Furniture Placer",
+        "originalPath": "/features/furniture-placer"
+      },
+      {
+        "id": "maintenance-predictor",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance-predictor"
+      },
+      {
+        "id": "home-inspector",
+        "title": "Home Inspector",
+        "originalPath": "/features/home-inspector"
+      },
+      {
+        "id": "suggestions",
+        "title": "Suggestions",
+        "originalPath": "/features/suggestions"
+      },
+      {
+        "id": "advanced-ai-tools",
+        "title": "Advanced ai tools",
+        "originalPath": "/features/advanced-ai-tools"
+      },
+      {
+        "id": "crew-skill-matcher",
+        "title": "Crew Skill Matcher",
+        "originalPath": "/features/crew-skill-matcher"
+      },
+      {
+        "id": "batch09-gap-nonai-multi-level-governance-approvals-board-cfo-sequenced",
+        "title": "Multi level governance approvals board cfo sequenced",
+        "originalPath": "/features/batch09-gap-nonai-multi-level-governance-approvals-board-cfo-sequenced"
+      },
+      {
+        "id": "batch09-gap-nonai-mobile-partner-portal-ui",
+        "title": "Mobile partner portal ui",
+        "originalPath": "/features/batch09-gap-nonai-mobile-partner-portal-ui"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "timecard-reconciliation-brief",
+      "payroll-packet-draft",
+      "pay-application-reconciliation",
+      "labor-cost-reconstruction",
+      "equipment-cost-reconstruction",
+      "material-cost-reconstruction",
+      "deduction-reconciliation",
+      "cost-estimation",
+      "cost-estimate-review",
+      "api-ai-estimate-cost",
+      "cost-estimations-ai-estimate",
+      "change-order-ai-advisor-estimating-costt",
+      "budget-optimizer-overspend-flagger",
+      "maintenance-cost-projector",
+      "material-price-monitor",
+      "batch09-gap-nonai-external-tax-reporting-10991042-generation"
+    ],
+    "ai": true,
+    "representativeId": "timecard-reconciliation-brief",
+    "description": "One assistant for 16 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "timecard-reconciliation-brief",
+        "title": "Timecard reconciliation brief",
+        "originalPath": "/features/timecard-reconciliation-brief"
+      },
+      {
+        "id": "payroll-packet-draft",
+        "title": "Payroll packet draft",
+        "originalPath": "/features/payroll-packet-draft"
+      },
+      {
+        "id": "pay-application-reconciliation",
+        "title": "Pay-application reconciliation",
+        "originalPath": "/features/pay-application-reconciliation"
+      },
+      {
+        "id": "labor-cost-reconstruction",
+        "title": "Labor cost reconstruction",
+        "originalPath": "/features/labor-cost-reconstruction"
+      },
+      {
+        "id": "equipment-cost-reconstruction",
+        "title": "Equipment cost reconstruction",
+        "originalPath": "/features/equipment-cost-reconstruction"
+      },
+      {
+        "id": "material-cost-reconstruction",
+        "title": "Material cost reconstruction",
+        "originalPath": "/features/material-cost-reconstruction"
+      },
+      {
+        "id": "deduction-reconciliation",
+        "title": "Deduction reconciliation",
+        "originalPath": "/features/deduction-reconciliation"
+      },
+      {
+        "id": "cost-estimation",
+        "title": "Cost Estimation",
+        "originalPath": "/features/cost-estimation"
+      },
+      {
+        "id": "cost-estimate-review",
+        "title": "Costs: Estimate Review",
+        "originalPath": "/features/cost-estimate-review"
+      },
+      {
+        "id": "api-ai-estimate-cost",
+        "title": "Budget vs Actual",
+        "originalPath": "/features/api-ai-estimate-cost"
+      },
+      {
+        "id": "cost-estimations-ai-estimate",
+        "title": "AI Cost Estimate",
+        "originalPath": "/features/cost-estimations-ai-estimate"
+      },
+      {
+        "id": "change-order-ai-advisor-estimating-costt",
+        "title": "change order ai advisor estimating costt",
+        "originalPath": "/features/change-order-ai-advisor-estimating-costt"
+      },
+      {
+        "id": "budget-optimizer-overspend-flagger",
+        "title": "budget optimizer overspend flagger",
+        "originalPath": "/features/budget-optimizer-overspend-flagger"
+      },
+      {
+        "id": "maintenance-cost-projector",
+        "title": "Maintenance Cost Projector",
+        "originalPath": "/features/maintenance-cost-projector"
+      },
+      {
+        "id": "material-price-monitor",
+        "title": "Material Price Monitor",
+        "originalPath": "/features/material-price-monitor"
+      },
+      {
+        "id": "batch09-gap-nonai-external-tax-reporting-10991042-generation",
+        "title": "External tax reporting 10991042 generation",
+        "originalPath": "/features/batch09-gap-nonai-external-tax-reporting-10991042-generation"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "schedule-of-values-ingestion",
+      "schedule-impact-calculation",
+      "api-ai-assess-risk",
+      "schedules-ai-optimize"
+    ],
+    "ai": true,
+    "representativeId": "schedule-of-values-ingestion",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "schedule-of-values-ingestion",
+        "title": "Schedule-of-values ingestion",
+        "originalPath": "/features/schedule-of-values-ingestion"
+      },
+      {
+        "id": "schedule-impact-calculation",
+        "title": "Schedule impact calculation",
+        "originalPath": "/features/schedule-impact-calculation"
+      },
+      {
+        "id": "api-ai-assess-risk",
+        "title": "Schedule Risk Mitigation",
+        "originalPath": "/features/api-ai-assess-risk"
+      },
+      {
+        "id": "schedules-ai-optimize",
+        "title": "AI Schedule Optimizer",
+        "originalPath": "/features/schedules-ai-optimize"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "project-cash-forecasting",
+      "responsible-party-analysis",
+      "structural-analysis",
+      "site-analysis",
+      "acoustic-analysis",
+      "api-ai-analyze-bid",
+      "api-ai-analyze-scope",
+      "api-ai-optimize-materials",
+      "api-ai-subcontractor-analysis",
+      "api-ai-dispute-analyzer",
+      "api-ai-insurance-recommend",
+      "api-gap-contractors-subcontractors-lack-ai-scoring-or-performance-pr",
+      "analysis",
+      "liability-insurance-recommendation-engine",
+      "change-orders-ai-analyze",
+      "weather-ai-analyze",
+      "bim-ai-analyze",
+      "predictive-project-completion",
+      "supply-chain-optimization",
+      "predict-hazards",
+      "analyze-incident",
+      "recommend-training",
+      "ppe-detector",
+      "fatigue-predictor",
+      "contractor-score",
+      "rca-analyzer",
+      "hazard-image-classifier",
+      "leading-indicator-predictor",
+      "maintenance",
+      "predictive-injury-prevention",
+      "worker-cohort-analysis",
+      "incident-analysis",
+      "training-recommend",
+      "predictive-alert",
+      "predict-collision",
+      "room-detector",
+      "full-analysis",
+      "sustainability-analyzer",
+      "material-supply-chain-optimization-monit",
+      "timeline-predictor-based-on-scope",
+      "contractor-recommendation-engine",
+      "soil",
+      "seasonal-demand-forecast",
+      "strategic-partner-recommend",
+      "insights",
+      "batch09-cfs-approval-workflow-prediction-likely-bottlenecks",
+      "batch09-cfs-strategic-partner-recommendation-based-on-capability-gaps",
+      "batch09-gap-ai-ai-workflow-bottleneck-detection",
+      "batch09-gap-ai-economics-split-optimization-ai",
+      "batch09-gap-ai-deal-structure-recommendations",
+      "batch09-gap-ai-payout-prediction"
+    ],
+    "ai": true,
+    "representativeId": "project-cash-forecasting",
+    "description": "One assistant for 51 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "project-cash-forecasting",
+        "title": "Project cash forecasting",
+        "originalPath": "/features/project-cash-forecasting"
+      },
+      {
+        "id": "responsible-party-analysis",
+        "title": "Responsible party analysis",
+        "originalPath": "/features/responsible-party-analysis"
+      },
+      {
+        "id": "structural-analysis",
+        "title": "Structural Analysis",
+        "originalPath": "/features/structural-analysis"
+      },
+      {
+        "id": "site-analysis",
+        "title": "Site Analysis",
+        "originalPath": "/features/site-analysis"
+      },
+      {
+        "id": "acoustic-analysis",
+        "title": "Acoustic Analysis",
+        "originalPath": "/features/acoustic-analysis"
+      },
+      {
+        "id": "api-ai-analyze-bid",
+        "title": "Bid Analysis",
+        "originalPath": "/features/api-ai-analyze-bid"
+      },
+      {
+        "id": "api-ai-analyze-scope",
+        "title": "Scope Analysis",
+        "originalPath": "/features/api-ai-analyze-scope"
+      },
+      {
+        "id": "api-ai-optimize-materials",
+        "title": "Material Optimization",
+        "originalPath": "/features/api-ai-optimize-materials"
+      },
+      {
+        "id": "api-ai-subcontractor-analysis",
+        "title": "Subcontractor Analysis",
+        "originalPath": "/features/api-ai-subcontractor-analysis"
+      },
+      {
+        "id": "api-ai-dispute-analyzer",
+        "title": "Dispute Analyzer",
+        "originalPath": "/features/api-ai-dispute-analyzer"
+      },
+      {
+        "id": "api-ai-insurance-recommend",
+        "title": "Liability Insurance Recommendation",
+        "originalPath": "/features/api-ai-insurance-recommend"
+      },
+      {
+        "id": "api-gap-contractors-subcontractors-lack-ai-scoring-or-performance-pr",
+        "title": "Contractor / Subcontractor AI Scoring",
+        "originalPath": "/features/api-gap-contractors-subcontractors-lack-ai-scoring-or-performance-pr"
+      },
+      {
+        "id": "analysis",
+        "title": "Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "liability-insurance-recommendation-engine",
+        "title": "Liability insurance recommendation engine",
+        "originalPath": "/features/liability-insurance-recommendation-engine"
+      },
+      {
+        "id": "change-orders-ai-analyze",
+        "title": "AI Change Order Analysis",
+        "originalPath": "/features/change-orders-ai-analyze"
+      },
+      {
+        "id": "weather-ai-analyze",
+        "title": "AI Weather Impact Analysis",
+        "originalPath": "/features/weather-ai-analyze"
+      },
+      {
+        "id": "bim-ai-analyze",
+        "title": "AI BIM Coordination Analysis",
+        "originalPath": "/features/bim-ai-analyze"
+      },
+      {
+        "id": "predictive-project-completion",
+        "title": "Predictive project completion",
+        "originalPath": "/features/predictive-project-completion"
+      },
+      {
+        "id": "supply-chain-optimization",
+        "title": "Supply chain optimization",
+        "originalPath": "/features/supply-chain-optimization"
+      },
+      {
+        "id": "predict-hazards",
+        "title": "Predict hazards",
+        "originalPath": "/features/predict-hazards"
+      },
+      {
+        "id": "analyze-incident",
+        "title": "Analyze incident",
+        "originalPath": "/features/analyze-incident"
+      },
+      {
+        "id": "recommend-training",
+        "title": "Recommend training",
+        "originalPath": "/features/recommend-training"
+      },
+      {
+        "id": "ppe-detector",
+        "title": "Ppe detector",
+        "originalPath": "/features/ppe-detector"
+      },
+      {
+        "id": "fatigue-predictor",
+        "title": "Fatigue predictor",
+        "originalPath": "/features/fatigue-predictor"
+      },
+      {
+        "id": "contractor-score",
+        "title": "Contractor score",
+        "originalPath": "/features/contractor-score"
+      },
+      {
+        "id": "rca-analyzer",
+        "title": "Rca analyzer",
+        "originalPath": "/features/rca-analyzer"
+      },
+      {
+        "id": "hazard-image-classifier",
+        "title": "Hazard image classifier",
+        "originalPath": "/features/hazard-image-classifier"
+      },
+      {
+        "id": "leading-indicator-predictor",
+        "title": "Leading indicator predictor",
+        "originalPath": "/features/leading-indicator-predictor"
+      },
+      {
+        "id": "maintenance",
+        "title": "Predictive Maintenance",
+        "originalPath": "/features/maintenance"
+      },
+      {
+        "id": "predictive-injury-prevention",
+        "title": "CF: PredictiveInjuryPreventi",
+        "originalPath": "/features/predictive-injury-prevention"
+      },
+      {
+        "id": "worker-cohort-analysis",
+        "title": "CF: WorkerCohortAnalysis",
+        "originalPath": "/features/worker-cohort-analysis"
+      },
+      {
+        "id": "incident-analysis",
+        "title": "Incident Analysis",
+        "originalPath": "/features/incident-analysis"
+      },
+      {
+        "id": "training-recommend",
+        "title": "Training Recommendations",
+        "originalPath": "/features/training-recommend"
+      },
+      {
+        "id": "predictive-alert",
+        "title": "Predictive Alerts",
+        "originalPath": "/features/predictive-alert"
+      },
+      {
+        "id": "predict-collision",
+        "title": "Collision Prediction",
+        "originalPath": "/features/predict-collision"
+      },
+      {
+        "id": "room-detector",
+        "title": "Room Detector",
+        "originalPath": "/features/room-detector"
+      },
+      {
+        "id": "full-analysis",
+        "title": "Full analysis",
+        "originalPath": "/features/full-analysis"
+      },
+      {
+        "id": "sustainability-analyzer",
+        "title": "Sustainability analyzer",
+        "originalPath": "/features/sustainability-analyzer"
+      },
+      {
+        "id": "material-supply-chain-optimization-monit",
+        "title": "material supply chain optimization monit",
+        "originalPath": "/features/material-supply-chain-optimization-monit"
+      },
+      {
+        "id": "timeline-predictor-based-on-scope",
+        "title": "timeline predictor based on scope",
+        "originalPath": "/features/timeline-predictor-based-on-scope"
+      },
+      {
+        "id": "contractor-recommendation-engine",
+        "title": "contractor recommendation engine",
+        "originalPath": "/features/contractor-recommendation-engine"
+      },
+      {
+        "id": "soil",
+        "title": "Soil Analysis",
+        "originalPath": "/features/soil"
+      },
+      {
+        "id": "seasonal-demand-forecast",
+        "title": "Seasonal Demand Forecast",
+        "originalPath": "/features/seasonal-demand-forecast"
+      },
+      {
+        "id": "strategic-partner-recommend",
+        "title": "Strategic partner recommend",
+        "originalPath": "/features/strategic-partner-recommend"
+      },
+      {
+        "id": "insights",
+        "title": "Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "batch09-cfs-approval-workflow-prediction-likely-bottlenecks",
+        "title": "Approval workflow prediction likely bottlenecks",
+        "originalPath": "/features/batch09-cfs-approval-workflow-prediction-likely-bottlenecks"
+      },
+      {
+        "id": "batch09-cfs-strategic-partner-recommendation-based-on-capability-gaps",
+        "title": "Strategic partner recommendation based on capability gaps",
+        "originalPath": "/features/batch09-cfs-strategic-partner-recommendation-based-on-capability-gaps"
+      },
+      {
+        "id": "batch09-gap-ai-ai-workflow-bottleneck-detection",
+        "title": "Workflow bottleneck detection",
+        "originalPath": "/features/batch09-gap-ai-ai-workflow-bottleneck-detection"
+      },
+      {
+        "id": "batch09-gap-ai-economics-split-optimization-ai",
+        "title": "Economics split optimization ai",
+        "originalPath": "/features/batch09-gap-ai-economics-split-optimization-ai"
+      },
+      {
+        "id": "batch09-gap-ai-deal-structure-recommendations",
+        "title": "Deal structure recommendations",
+        "originalPath": "/features/batch09-gap-ai-deal-structure-recommendations"
+      },
+      {
+        "id": "batch09-gap-ai-payout-prediction",
+        "title": "Payout prediction",
+        "originalPath": "/features/batch09-gap-ai-payout-prediction"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "building-design-generator",
+      "render-spec",
+      "versions",
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "building-design-generator",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "building-design-generator",
+        "title": "Building Design Generator",
+        "originalPath": "/features/building-design-generator"
+      },
+      {
+        "id": "render-spec",
+        "title": "Render Spec",
+        "originalPath": "/features/render-spec"
+      },
+      {
+        "id": "versions",
+        "title": "Design Versions",
+        "originalPath": "/features/versions"
+      },
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "cad-conversion"
+    ],
+    "ai": true,
+    "representativeId": "cad-conversion",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "cad-conversion",
+        "title": "CAD Conversion",
+        "originalPath": "/features/cad-conversion"
+      }
+    ]
+  }
+]
